@@ -1,1 +1,2 @@
-# sample HTML/CSS/javascript(jQuery)
+# Sample code.
+### HTML/CSS/javascript(jQuery)
