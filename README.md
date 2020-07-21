@@ -1,1 +1,1 @@
-# sample
+# sample HTML/CSS/javascript(jQuery)
